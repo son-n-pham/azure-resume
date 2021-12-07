@@ -6,3 +6,7 @@ Diagram
 
 Prerequisites:
 ![image](https://user-images.githubusercontent.com/79841341/145048214-75ff8a23-1341-40d3-a69f-acfc764778e1.png)
+
+I need to add ssh keys to GitHub account. Here is the steps that I follow.
+https://www.inmotionhosting.com/support/server/ssh/how-to-add-ssh-keys-to-your-github-account/
+
