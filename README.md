@@ -14,3 +14,5 @@ https://www.inmotionhosting.com/support/server/ssh/how-to-add-ssh-keys-to-your-g
 After cloning my GitHub repo, I cloned the azure resume resouces from ACG repo from the below link.
 
 https://github.com/ACloudGuru-Resources/acg-project-azure-resume-starter
+
+Then I went to the local machine's VS code to modify index.html to update the resume, then create main.js for counting the visit. Finally, git add, git commit then git push to update all the changes in the local device to this GitHub repo.
