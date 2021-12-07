@@ -1,6 +1,7 @@
 # build-resume-in-azure
+Follow video project from ACG
 
-diagram
+Diagram
 ![image](https://user-images.githubusercontent.com/79841341/145048139-687b4225-4c28-468d-95ff-a25801bdb6ce.png)
 
 Prerequisites:
