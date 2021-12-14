@@ -21,6 +21,9 @@ https://github.com/ACloudGuru-Resources/acg-project-azure-resume-starter
 
 Then I went to the local machine's VS code to modify index.html to update the resume, then create main.js for counting the visit. Finally, git add, git commit then git push to update all the changes in the local device to this GitHub repo.
 
+- front-end folder contains the website
+- main.js contains visitor counter code
+
 ## Section 2: Building Backend
 
 ![image](https://user-images.githubusercontent.com/79841341/145063159-4d97ca3b-5cb0-4e28-80ea-94fde3fe3f98.png)
