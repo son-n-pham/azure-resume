@@ -30,8 +30,18 @@ Then I went to the local machine's VS code to modify index.html to update the re
 
 ![image](https://user-images.githubusercontent.com/79841341/145063159-4d97ca3b-5cb0-4e28-80ea-94fde3fe3f98.png)
 
-1. Setting up Cosmo DB resource
+### Setting up Cosmo DB resource
 
 When setting Cosmos DB resources, we selected the capacity mode of serverless because it can save cost and we do not need it to be on all the time.
 
 ![image](https://user-images.githubusercontent.com/79841341/145064876-12af2c85-3108-4c42-8796-879303f9b61e.png)
+
+The sub-steps are:
+- Create resouce group **azureresume-sg**
+- Create Cosmos DB account **azureresumeson**
+- Create new Cosmos DB database named **AzureResume**
+- Create new container name **Counter** in the new AzureResume database
+- Create the first item with 2 keys **id** and **count** with the partition key of **/id**
+
+![image](https://user-images.githubusercontent.com/79841341/146121946-7d6ec369-ecbb-46f0-af3e-0c0aae8719bb.png)
+
