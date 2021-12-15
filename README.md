@@ -45,3 +45,6 @@ The sub-steps are:
 
 ![image](https://user-images.githubusercontent.com/79841341/146121946-7d6ec369-ecbb-46f0-af3e-0c0aae8719bb.png)
 
+### Create Azure Function
+
+Azure Cosmos DB binding is connected to Azure Function so that the Function can take care of the visit counting
